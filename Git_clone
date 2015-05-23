@@ -1,1 +1,6 @@
-Explain what git clone does, in your own words
+Git clone is used to copy a repository from one location to another (e.g. from github down to your local machine)
+
+Use it like this:
+git clone https://github.com/natstar93/Octocat.git
+
+The git clone command creates a folder with the same name as the original repository and initialises it too.
