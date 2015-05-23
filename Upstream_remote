@@ -1,1 +1,3 @@
-Explain what the "upstream" remote is usually used for, in your own words
+An upstream remote is a copy of a repository that is kept up to date with the original repo. 
+
+You might want to create one remote copy of the repository to work on (e.g. to fix a bug, add a feature) and an upstream remote repository to keep yourself up to date with changes others are making to the main branch.
