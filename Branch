@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+You can create several branches of a repository which allow different things to be worked on at once.
+
+Different branches can be submitted back to the repo owner via pull requests. The owner can then decide whether to incorporate your branch back into the main repository. 
